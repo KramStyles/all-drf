@@ -1,3 +1,3 @@
-# django-react-auth
-This is my first project combining Django and React. I would be creating a 
-register and login program with tokens, 2FA Authentication and Google email login
+# Django Rest Framework
+
+A django udemy course where I get to learn as much DRF as I can.. 
