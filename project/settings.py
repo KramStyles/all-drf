@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     # PIP INSTALLS
     'rest_framework',
     'drf_yasg',
+    'rest_framework.authtoken',
+    'rest_auth'
 ]
 
 MIDDLEWARE = [
