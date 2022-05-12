@@ -42,6 +42,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    # APPS
+    'api.apps.ApiConfig',
+
     # PIP INSTALLS
     'rest_framework',
     'drf_yasg',
